@@ -6,22 +6,22 @@ from utils.char_analyzer import CharacterAnalyzer
 
 # Step 1: Analyze character frequencies in your corpus
 analyzer = CharacterAnalyzer()
-analyzer.analyze_file('data/samples/chinese.txt')  # Updated path to Chinese corpus!
+analyzer.analyze_file('data/samples/chinese.txt')
 
 # Step 2: Generate optimized character mappings
-mappings = analyzer.create_basic_mapping(num_chars=200)  # Adjust as needed
+mappings = analyzer.create_basic_mapping(num_chars=200)
 analyzer.save_mapping_json(mappings, 'chinese_basic_mappings.json')
 
 # Step 3: Use with the transliterator
 from core.transliterator import HuffmanTransliterator
-transliterator = HuffmanTransliterator('chinese_basic_mappings.json', use_optimized=False)  # use_optimized=False for basic mapping!
+transliterator = HuffmanTransliterator('chinese_basic_mappings.json', use_optimized=False)
 
 # Step 4: Test the transliterator with Chinese text
 print("="*60)
 print("CHINESE TRANSLITERATION TEST")
 print("="*60)
 
-# Test with actual Chinese text samples DIRECTLY from the corpus
+# Test with actual Chinese text samples from the corpus
 chinese_samples = [
     "经济学是一门对产品和服务的生产",
     "经济学注重的是研究经济行为",
