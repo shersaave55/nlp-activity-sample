@@ -8,7 +8,8 @@ transformers>=4.20.0
 tokenizers>=0.13.0
 
 # Optional dependencies for specific features
-uroman>=1.2.8  # For UROMAN comparison (optional)
+# uroman - Not available on PyPI. Install manually if needed for UROMAN comparison.
+# See: https://github.com/isi-nlp/uroman
 
 # Development and testing
 pytest>=7.0.0

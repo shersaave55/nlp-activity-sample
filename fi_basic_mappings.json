@@ -1,0 +1,1602 @@
+[
+  {
+    "id": 1,
+    "char": " ",
+    "unicode": "U+0020",
+    "name": "SPACE",
+    "frequency": 1349299,
+    "latin_code": "B"
+  },
+  {
+    "id": 2,
+    "char": "a",
+    "unicode": "U+0061",
+    "name": "LATIN SMALL LETTER A",
+    "frequency": 953310,
+    "latin_code": "C"
+  },
+  {
+    "id": 3,
+    "char": "i",
+    "unicode": "U+0069",
+    "name": "LATIN SMALL LETTER I",
+    "frequency": 879229,
+    "latin_code": "D"
+  },
+  {
+    "id": 4,
+    "char": "t",
+    "unicode": "U+0074",
+    "name": "LATIN SMALL LETTER T",
+    "frequency": 812268,
+    "latin_code": "E"
+  },
+  {
+    "id": 5,
+    "char": "n",
+    "unicode": "U+006E",
+    "name": "LATIN SMALL LETTER N",
+    "frequency": 662804,
+    "latin_code": "F"
+  },
+  {
+    "id": 6,
+    "char": "e",
+    "unicode": "U+0065",
+    "name": "LATIN SMALL LETTER E",
+    "frequency": 659406,
+    "latin_code": "G"
+  },
+  {
+    "id": 7,
+    "char": "s",
+    "unicode": "U+0073",
+    "name": "LATIN SMALL LETTER S",
+    "frequency": 600554,
+    "latin_code": "H"
+  },
+  {
+    "id": 8,
+    "char": "o",
+    "unicode": "U+006F",
+    "name": "LATIN SMALL LETTER O",
+    "frequency": 452967,
+    "latin_code": "I"
+  },
+  {
+    "id": 9,
+    "char": "l",
+    "unicode": "U+006C",
+    "name": "LATIN SMALL LETTER L",
+    "frequency": 448704,
+    "latin_code": "J"
+  },
+  {
+    "id": 10,
+    "char": "k",
+    "unicode": "U+006B",
+    "name": "LATIN SMALL LETTER K",
+    "frequency": 397646,
+    "latin_code": "K"
+  },
+  {
+    "id": 11,
+    "char": "u",
+    "unicode": "U+0075",
+    "name": "LATIN SMALL LETTER U",
+    "frequency": 384301,
+    "latin_code": "L"
+  },
+  {
+    "id": 12,
+    "char": "ä",
+    "unicode": "U+00E4",
+    "name": "LATIN SMALL LETTER A WITH DIAERESIS",
+    "frequency": 350818,
+    "latin_code": "M"
+  },
+  {
+    "id": 13,
+    "char": "m",
+    "unicode": "U+006D",
+    "name": "LATIN SMALL LETTER M",
+    "frequency": 257500,
+    "latin_code": "N"
+  },
+  {
+    "id": 14,
+    "char": "r",
+    "unicode": "U+0072",
+    "name": "LATIN SMALL LETTER R",
+    "frequency": 191426,
+    "latin_code": "O"
+  },
+  {
+    "id": 15,
+    "char": "v",
+    "unicode": "U+0076",
+    "name": "LATIN SMALL LETTER V",
+    "frequency": 187988,
+    "latin_code": "P"
+  },
+  {
+    "id": 16,
+    "char": "j",
+    "unicode": "U+006A",
+    "name": "LATIN SMALL LETTER J",
+    "frequency": 150279,
+    "latin_code": "Q"
+  },
+  {
+    "id": 17,
+    "char": "h",
+    "unicode": "U+0068",
+    "name": "LATIN SMALL LETTER H",
+    "frequency": 141361,
+    "latin_code": "R"
+  },
+  {
+    "id": 18,
+    "char": "y",
+    "unicode": "U+0079",
+    "name": "LATIN SMALL LETTER Y",
+    "frequency": 138645,
+    "latin_code": "S"
+  },
+  {
+    "id": 19,
+    "char": "p",
+    "unicode": "U+0070",
+    "name": "LATIN SMALL LETTER P",
+    "frequency": 137542,
+    "latin_code": "T"
+  },
+  {
+    "id": 20,
+    "char": ".",
+    "unicode": "U+002E",
+    "name": "FULL STOP",
+    "frequency": 97135,
+    "latin_code": "U"
+  },
+  {
+    "id": 21,
+    "char": "d",
+    "unicode": "U+0064",
+    "name": "LATIN SMALL LETTER D",
+    "frequency": 74827,
+    "latin_code": "V"
+  },
+  {
+    "id": 22,
+    "char": ",",
+    "unicode": "U+002C",
+    "name": "COMMA",
+    "frequency": 74454,
+    "latin_code": "W"
+  },
+  {
+    "id": 23,
+    "char": "ö",
+    "unicode": "U+00F6",
+    "name": "LATIN SMALL LETTER O WITH DIAERESIS",
+    "frequency": 39627,
+    "latin_code": "X"
+  },
+  {
+    "id": 24,
+    "char": "-",
+    "unicode": "U+002D",
+    "name": "HYPHEN-MINUS",
+    "frequency": 23428,
+    "latin_code": "Y"
+  },
+  {
+    "id": 25,
+    "char": "0",
+    "unicode": "U+0030",
+    "name": "DIGIT ZERO",
+    "frequency": 21321,
+    "latin_code": "Z"
+  },
+  {
+    "id": 26,
+    "char": "S",
+    "unicode": "U+0053",
+    "name": "LATIN CAPITAL LETTER S",
+    "frequency": 18495,
+    "latin_code": "Aa"
+  },
+  {
+    "id": 27,
+    "char": "1",
+    "unicode": "U+0031",
+    "name": "DIGIT ONE",
+    "frequency": 17569,
+    "latin_code": "Ab"
+  },
+  {
+    "id": 28,
+    "char": "T",
+    "unicode": "U+0054",
+    "name": "LATIN CAPITAL LETTER T",
+    "frequency": 17308,
+    "latin_code": "Ac"
+  },
+  {
+    "id": 29,
+    "char": "g",
+    "unicode": "U+0067",
+    "name": "LATIN SMALL LETTER G",
+    "frequency": 17226,
+    "latin_code": "Ad"
+  },
+  {
+    "id": 30,
+    "char": "K",
+    "unicode": "U+004B",
+    "name": "LATIN CAPITAL LETTER K",
+    "frequency": 15224,
+    "latin_code": "Ae"
+  },
+  {
+    "id": 31,
+    "char": "2",
+    "unicode": "U+0032",
+    "name": "DIGIT TWO",
+    "frequency": 14812,
+    "latin_code": "Af"
+  },
+  {
+    "id": 32,
+    "char": "M",
+    "unicode": "U+004D",
+    "name": "LATIN CAPITAL LETTER M",
+    "frequency": 14614,
+    "latin_code": "Ag"
+  },
+  {
+    "id": 33,
+    "char": ":",
+    "unicode": "U+003A",
+    "name": "COLON",
+    "frequency": 12444,
+    "latin_code": "Ah"
+  },
+  {
+    "id": 34,
+    "char": "\"",
+    "unicode": "U+0022",
+    "name": "QUOTATION MARK",
+    "frequency": 12252,
+    "latin_code": "Ai"
+  },
+  {
+    "id": 35,
+    "char": "A",
+    "unicode": "U+0041",
+    "name": "LATIN CAPITAL LETTER A",
+    "frequency": 12164,
+    "latin_code": "Aj"
+  },
+  {
+    "id": 36,
+    "char": "P",
+    "unicode": "U+0050",
+    "name": "LATIN CAPITAL LETTER P",
+    "frequency": 11953,
+    "latin_code": "Ak"
+  },
+  {
+    "id": 37,
+    "char": "E",
+    "unicode": "U+0045",
+    "name": "LATIN CAPITAL LETTER E",
+    "frequency": 11814,
+    "latin_code": "Al"
+  },
+  {
+    "id": 38,
+    "char": "H",
+    "unicode": "U+0048",
+    "name": "LATIN CAPITAL LETTER H",
+    "frequency": 10543,
+    "latin_code": "Am"
+  },
+  {
+    "id": 39,
+    "char": "J",
+    "unicode": "U+004A",
+    "name": "LATIN CAPITAL LETTER J",
+    "frequency": 10511,
+    "latin_code": "An"
+  },
+  {
+    "id": 40,
+    "char": "c",
+    "unicode": "U+0063",
+    "name": "LATIN SMALL LETTER C",
+    "frequency": 10190,
+    "latin_code": "Ao"
+  },
+  {
+    "id": 41,
+    "char": "f",
+    "unicode": "U+0066",
+    "name": "LATIN SMALL LETTER F",
+    "frequency": 9970,
+    "latin_code": "Ap"
+  },
+  {
+    "id": 42,
+    "char": "L",
+    "unicode": "U+004C",
+    "name": "LATIN CAPITAL LETTER L",
+    "frequency": 9556,
+    "latin_code": "Aq"
+  },
+  {
+    "id": 43,
+    "char": "b",
+    "unicode": "U+0062",
+    "name": "LATIN SMALL LETTER B",
+    "frequency": 9327,
+    "latin_code": "Ar"
+  },
+  {
+    "id": 44,
+    "char": "V",
+    "unicode": "U+0056",
+    "name": "LATIN CAPITAL LETTER V",
+    "frequency": 8932,
+    "latin_code": "As"
+  },
+  {
+    "id": 45,
+    "char": "O",
+    "unicode": "U+004F",
+    "name": "LATIN CAPITAL LETTER O",
+    "frequency": 8743,
+    "latin_code": "At"
+  },
+  {
+    "id": 46,
+    "char": "N",
+    "unicode": "U+004E",
+    "name": "LATIN CAPITAL LETTER N",
+    "frequency": 8686,
+    "latin_code": "Au"
+  },
+  {
+    "id": 47,
+    "char": ")",
+    "unicode": "U+0029",
+    "name": "RIGHT PARENTHESIS",
+    "frequency": 8375,
+    "latin_code": "Av"
+  },
+  {
+    "id": 48,
+    "char": "I",
+    "unicode": "U+0049",
+    "name": "LATIN CAPITAL LETTER I",
+    "frequency": 7904,
+    "latin_code": "Aw"
+  },
+  {
+    "id": 49,
+    "char": "(",
+    "unicode": "U+0028",
+    "name": "LEFT PARENTHESIS",
+    "frequency": 7448,
+    "latin_code": "Ax"
+  },
+  {
+    "id": 50,
+    "char": "3",
+    "unicode": "U+0033",
+    "name": "DIGIT THREE",
+    "frequency": 7347,
+    "latin_code": "Ay"
+  },
+  {
+    "id": 51,
+    "char": "R",
+    "unicode": "U+0052",
+    "name": "LATIN CAPITAL LETTER R",
+    "frequency": 6290,
+    "latin_code": "Az"
+  },
+  {
+    "id": 52,
+    "char": "5",
+    "unicode": "U+0035",
+    "name": "DIGIT FIVE",
+    "frequency": 6278,
+    "latin_code": "Ba"
+  },
+  {
+    "id": 53,
+    "char": "4",
+    "unicode": "U+0034",
+    "name": "DIGIT FOUR",
+    "frequency": 5521,
+    "latin_code": "Bb"
+  },
+  {
+    "id": 54,
+    "char": "9",
+    "unicode": "U+0039",
+    "name": "DIGIT NINE",
+    "frequency": 5175,
+    "latin_code": "Bc"
+  },
+  {
+    "id": 55,
+    "char": ";",
+    "unicode": "U+003B",
+    "name": "SEMICOLON",
+    "frequency": 4601,
+    "latin_code": "Bd"
+  },
+  {
+    "id": 56,
+    "char": "C",
+    "unicode": "U+0043",
+    "name": "LATIN CAPITAL LETTER C",
+    "frequency": 4536,
+    "latin_code": "Be"
+  },
+  {
+    "id": 57,
+    "char": "?",
+    "unicode": "U+003F",
+    "name": "QUESTION MARK",
+    "frequency": 4435,
+    "latin_code": "Bf"
+  },
+  {
+    "id": 58,
+    "char": "8",
+    "unicode": "U+0038",
+    "name": "DIGIT EIGHT",
+    "frequency": 3979,
+    "latin_code": "Bg"
+  },
+  {
+    "id": 59,
+    "char": "/",
+    "unicode": "U+002F",
+    "name": "SOLIDUS",
+    "frequency": 3887,
+    "latin_code": "Bh"
+  },
+  {
+    "id": 60,
+    "char": "6",
+    "unicode": "U+0036",
+    "name": "DIGIT SIX",
+    "frequency": 3874,
+    "latin_code": "Bi"
+  },
+  {
+    "id": 61,
+    "char": "w",
+    "unicode": "U+0077",
+    "name": "LATIN SMALL LETTER W",
+    "frequency": 3817,
+    "latin_code": "Bj"
+  },
+  {
+    "id": 62,
+    "char": "D",
+    "unicode": "U+0044",
+    "name": "LATIN CAPITAL LETTER D",
+    "frequency": 3745,
+    "latin_code": "Bk"
+  },
+  {
+    "id": 63,
+    "char": "7",
+    "unicode": "U+0037",
+    "name": "DIGIT SEVEN",
+    "frequency": 3686,
+    "latin_code": "Bl"
+  },
+  {
+    "id": 64,
+    "char": "U",
+    "unicode": "U+0055",
+    "name": "LATIN CAPITAL LETTER U",
+    "frequency": 3580,
+    "latin_code": "Bm"
+  },
+  {
+    "id": 65,
+    "char": "B",
+    "unicode": "U+0042",
+    "name": "LATIN CAPITAL LETTER B",
+    "frequency": 3544,
+    "latin_code": "Bn"
+  },
+  {
+    "id": 66,
+    "char": "”",
+    "unicode": "U+201D",
+    "name": "RIGHT DOUBLE QUOTATION MARK",
+    "frequency": 3484,
+    "latin_code": "Bo"
+  },
+  {
+    "id": 67,
+    "char": "Y",
+    "unicode": "U+0059",
+    "name": "LATIN CAPITAL LETTER Y",
+    "frequency": 3236,
+    "latin_code": "Bp"
+  },
+  {
+    "id": 68,
+    "char": "!",
+    "unicode": "U+0021",
+    "name": "EXCLAMATION MARK",
+    "frequency": 2559,
+    "latin_code": "Bq"
+  },
+  {
+    "id": 69,
+    "char": "%",
+    "unicode": "U+0025",
+    "name": "PERCENT SIGN",
+    "frequency": 2490,
+    "latin_code": "Br"
+  },
+  {
+    "id": 70,
+    "char": "'",
+    "unicode": "U+0027",
+    "name": "APOSTROPHE",
+    "frequency": 2426,
+    "latin_code": "Bs"
+  },
+  {
+    "id": 71,
+    "char": "G",
+    "unicode": "U+0047",
+    "name": "LATIN CAPITAL LETTER G",
+    "frequency": 2264,
+    "latin_code": "Bt"
+  },
+  {
+    "id": 72,
+    "char": "F",
+    "unicode": "U+0046",
+    "name": "LATIN CAPITAL LETTER F",
+    "frequency": 2245,
+    "latin_code": "Bu"
+  },
+  {
+    "id": 73,
+    "char": "W",
+    "unicode": "U+0057",
+    "name": "LATIN CAPITAL LETTER W",
+    "frequency": 1882,
+    "latin_code": "Bv"
+  },
+  {
+    "id": 74,
+    "char": "–",
+    "unicode": "U+2013",
+    "name": "EN DASH",
+    "frequency": 1603,
+    "latin_code": "Bw"
+  },
+  {
+    "id": 75,
+    "char": "\t",
+    "unicode": "U+0009",
+    "name": "UNKNOWN",
+    "frequency": 1559,
+    "latin_code": "Bx"
+  },
+  {
+    "id": 76,
+    "char": "\n",
+    "unicode": "U+000A",
+    "name": "UNKNOWN",
+    "frequency": 1559,
+    "latin_code": "By"
+  },
+  {
+    "id": 77,
+    "char": "x",
+    "unicode": "U+0078",
+    "name": "LATIN SMALL LETTER X",
+    "frequency": 1428,
+    "latin_code": "Bz"
+  },
+  {
+    "id": 78,
+    "char": "z",
+    "unicode": "U+007A",
+    "name": "LATIN SMALL LETTER Z",
+    "frequency": 1308,
+    "latin_code": "Ca"
+  },
+  {
+    "id": 79,
+    "char": "&",
+    "unicode": "U+0026",
+    "name": "AMPERSAND",
+    "frequency": 1201,
+    "latin_code": "Cb"
+  },
+  {
+    "id": 80,
+    "char": "[",
+    "unicode": "U+005B",
+    "name": "LEFT SQUARE BRACKET",
+    "frequency": 1079,
+    "latin_code": "Cc"
+  },
+  {
+    "id": 81,
+    "char": "]",
+    "unicode": "U+005D",
+    "name": "RIGHT SQUARE BRACKET",
+    "frequency": 1076,
+    "latin_code": "Cd"
+  },
+  {
+    "id": 82,
+    "char": "=",
+    "unicode": "U+003D",
+    "name": "EQUALS SIGN",
+    "frequency": 941,
+    "latin_code": "Ce"
+  },
+  {
+    "id": 83,
+    "char": "“",
+    "unicode": "U+201C",
+    "name": "LEFT DOUBLE QUOTATION MARK",
+    "frequency": 878,
+    "latin_code": "Cf"
+  },
+  {
+    "id": 84,
+    "char": "§",
+    "unicode": "U+00A7",
+    "name": "SECTION SIGN",
+    "frequency": 790,
+    "latin_code": "Cg"
+  },
+  {
+    "id": 85,
+    "char": "Ã",
+    "unicode": "U+00C3",
+    "name": "LATIN CAPITAL LETTER A WITH TILDE",
+    "frequency": 721,
+    "latin_code": "Ch"
+  },
+  {
+    "id": 86,
+    "char": "Ä",
+    "unicode": "U+00C4",
+    "name": "LATIN CAPITAL LETTER A WITH DIAERESIS",
+    "frequency": 709,
+    "latin_code": "Ci"
+  },
+  {
+    "id": 87,
+    "char": "¤",
+    "unicode": "U+00A4",
+    "name": "CURRENCY SIGN",
+    "frequency": 649,
+    "latin_code": "Cj"
+  },
+  {
+    "id": 88,
+    "char": "_",
+    "unicode": "U+005F",
+    "name": "LOW LINE",
+    "frequency": 505,
+    "latin_code": "Ck"
+  },
+  {
+    "id": 89,
+    "char": "*",
+    "unicode": "U+002A",
+    "name": "ASTERISK",
+    "frequency": 501,
+    "latin_code": "Cl"
+  },
+  {
+    "id": 90,
+    "char": "é",
+    "unicode": "U+00E9",
+    "name": "LATIN SMALL LETTER E WITH ACUTE",
+    "frequency": 474,
+    "latin_code": "Cm"
+  },
+  {
+    "id": 91,
+    "char": "q",
+    "unicode": "U+0071",
+    "name": "LATIN SMALL LETTER Q",
+    "frequency": 458,
+    "latin_code": "Cn"
+  },
+  {
+    "id": 92,
+    "char": "’",
+    "unicode": "U+2019",
+    "name": "RIGHT SINGLE QUOTATION MARK",
+    "frequency": 451,
+    "latin_code": "Co"
+  },
+  {
+    "id": 93,
+    "char": "",
+    "unicode": "U+0097",
+    "name": "UNKNOWN",
+    "frequency": 448,
+    "latin_code": "Cp"
+  },
+  {
+    "id": 94,
+    "char": "…",
+    "unicode": "U+2026",
+    "name": "HORIZONTAL ELLIPSIS",
+    "frequency": 432,
+    "latin_code": "Cq"
+  },
+  {
+    "id": 95,
+    "char": "|",
+    "unicode": "U+007C",
+    "name": "VERTICAL LINE",
+    "frequency": 421,
+    "latin_code": "Cr"
+  },
+  {
+    "id": 96,
+    "char": "X",
+    "unicode": "U+0058",
+    "name": "LATIN CAPITAL LETTER X",
+    "frequency": 325,
+    "latin_code": "Cs"
+  },
+  {
+    "id": 97,
+    "char": "+",
+    "unicode": "U+002B",
+    "name": "PLUS SIGN",
+    "frequency": 278,
+    "latin_code": "Ct"
+  },
+  {
+    "id": 98,
+    "char": "€",
+    "unicode": "U+20AC",
+    "name": "EURO SIGN",
+    "frequency": 278,
+    "latin_code": "Cu"
+  },
+  {
+    "id": 99,
+    "char": "Z",
+    "unicode": "U+005A",
+    "name": "LATIN CAPITAL LETTER Z",
+    "frequency": 277,
+    "latin_code": "Cv"
+  },
+  {
+    "id": 100,
+    "char": "Q",
+    "unicode": "U+0051",
+    "name": "LATIN CAPITAL LETTER Q",
+    "frequency": 271,
+    "latin_code": "Cw"
+  },
+  {
+    "id": 101,
+    "char": "—",
+    "unicode": "U+2014",
+    "name": "EM DASH",
+    "frequency": 189,
+    "latin_code": "Cx"
+  },
+  {
+    "id": 102,
+    "char": "Ö",
+    "unicode": "U+00D6",
+    "name": "LATIN CAPITAL LETTER O WITH DIAERESIS",
+    "frequency": 187,
+    "latin_code": "Cy"
+  },
+  {
+    "id": 103,
+    "char": "",
+    "unicode": "U+0094",
+    "name": "UNKNOWN",
+    "frequency": 128,
+    "latin_code": "Cz"
+  },
+  {
+    "id": 104,
+    "char": "@",
+    "unicode": "U+0040",
+    "name": "COMMERCIAL AT",
+    "frequency": 111,
+    "latin_code": "Da"
+  },
+  {
+    "id": 105,
+    "char": "è",
+    "unicode": "U+00E8",
+    "name": "LATIN SMALL LETTER E WITH GRAVE",
+    "frequency": 100,
+    "latin_code": "Db"
+  },
+  {
+    "id": 106,
+    "char": "$",
+    "unicode": "U+0024",
+    "name": "DOLLAR SIGN",
+    "frequency": 99,
+    "latin_code": "Dc"
+  },
+  {
+    "id": 107,
+    "char": "×",
+    "unicode": "U+00D7",
+    "name": "MULTIPLICATION SIGN",
+    "frequency": 98,
+    "latin_code": "Dd"
+  },
+  {
+    "id": 108,
+    "char": "•",
+    "unicode": "U+2022",
+    "name": "BULLET",
+    "frequency": 85,
+    "latin_code": "De"
+  },
+  {
+    "id": 109,
+    "char": "μ",
+    "unicode": "U+03BC",
+    "name": "GREEK SMALL LETTER MU",
+    "frequency": 83,
+    "latin_code": "Df"
+  },
+  {
+    "id": 110,
+    "char": "à",
+    "unicode": "U+00E0",
+    "name": "LATIN SMALL LETTER A WITH GRAVE",
+    "frequency": 81,
+    "latin_code": "Dg"
+  },
+  {
+    "id": 111,
+    "char": "^",
+    "unicode": "U+005E",
+    "name": "CIRCUMFLEX ACCENT",
+    "frequency": 79,
+    "latin_code": "Dh"
+  },
+  {
+    "id": 112,
+    "char": "¶",
+    "unicode": "U+00B6",
+    "name": "PILCROW SIGN",
+    "frequency": 73,
+    "latin_code": "Di"
+  },
+  {
+    "id": 113,
+    "char": "{",
+    "unicode": "U+007B",
+    "name": "LEFT CURLY BRACKET",
+    "frequency": 71,
+    "latin_code": "Dj"
+  },
+  {
+    "id": 114,
+    "char": "}",
+    "unicode": "U+007D",
+    "name": "RIGHT CURLY BRACKET",
+    "frequency": 69,
+    "latin_code": "Dk"
+  },
+  {
+    "id": 115,
+    "char": "―",
+    "unicode": "U+2015",
+    "name": "HORIZONTAL BAR",
+    "frequency": 56,
+    "latin_code": "Dl"
+  },
+  {
+    "id": 116,
+    "char": "",
+    "unicode": "U+0096",
+    "name": "UNKNOWN",
+    "frequency": 56,
+    "latin_code": "Dm"
+  },
+  {
+    "id": 117,
+    "char": "‘",
+    "unicode": "U+2018",
+    "name": "LEFT SINGLE QUOTATION MARK",
+    "frequency": 54,
+    "latin_code": "Dn"
+  },
+  {
+    "id": 118,
+    "char": "°",
+    "unicode": "U+00B0",
+    "name": "DEGREE SIGN",
+    "frequency": 54,
+    "latin_code": "Do"
+  },
+  {
+    "id": 119,
+    "char": "µ",
+    "unicode": "U+00B5",
+    "name": "MICRO SIGN",
+    "frequency": 51,
+    "latin_code": "Dp"
+  },
+  {
+    "id": 120,
+    "char": "»",
+    "unicode": "U+00BB",
+    "name": "RIGHT-POINTING DOUBLE ANGLE QUOTATION MARK",
+    "frequency": 50,
+    "latin_code": "Dq"
+  },
+  {
+    "id": 121,
+    "char": "",
+    "unicode": "U+0080",
+    "name": "UNKNOWN",
+    "frequency": 48,
+    "latin_code": "Dr"
+  },
+  {
+    "id": 122,
+    "char": "#",
+    "unicode": "U+0023",
+    "name": "NUMBER SIGN",
+    "frequency": 47,
+    "latin_code": "Ds"
+  },
+  {
+    "id": 123,
+    "char": "å",
+    "unicode": "U+00E5",
+    "name": "LATIN SMALL LETTER A WITH RING ABOVE",
+    "frequency": 45,
+    "latin_code": "Dt"
+  },
+  {
+    "id": 124,
+    "char": "ü",
+    "unicode": "U+00FC",
+    "name": "LATIN SMALL LETTER U WITH DIAERESIS",
+    "frequency": 36,
+    "latin_code": "Du"
+  },
+  {
+    "id": 125,
+    "char": "™",
+    "unicode": "U+2122",
+    "name": "TRADE MARK SIGN",
+    "frequency": 36,
+    "latin_code": "Dv"
+  },
+  {
+    "id": 126,
+    "char": "Â",
+    "unicode": "U+00C2",
+    "name": "LATIN CAPITAL LETTER A WITH CIRCUMFLEX",
+    "frequency": 36,
+    "latin_code": "Dw"
+  },
+  {
+    "id": 127,
+    "char": "É",
+    "unicode": "U+00C9",
+    "name": "LATIN CAPITAL LETTER E WITH ACUTE",
+    "frequency": 34,
+    "latin_code": "Dx"
+  },
+  {
+    "id": 128,
+    "char": "±",
+    "unicode": "U+00B1",
+    "name": "PLUS-MINUS SIGN",
+    "frequency": 31,
+    "latin_code": "Dy"
+  },
+  {
+    "id": 129,
+    "char": "·",
+    "unicode": "U+00B7",
+    "name": "MIDDLE DOT",
+    "frequency": 28,
+    "latin_code": "Dz"
+  },
+  {
+    "id": 130,
+    "char": "­",
+    "unicode": "U+00AD",
+    "name": "SOFT HYPHEN",
+    "frequency": 28,
+    "latin_code": "Ea"
+  },
+  {
+    "id": 131,
+    "char": "®",
+    "unicode": "U+00AE",
+    "name": "REGISTERED SIGN",
+    "frequency": 26,
+    "latin_code": "Eb"
+  },
+  {
+    "id": 132,
+    "char": "→",
+    "unicode": "U+2192",
+    "name": "RIGHTWARDS ARROW",
+    "frequency": 24,
+    "latin_code": "Ec"
+  },
+  {
+    "id": 133,
+    "char": "„",
+    "unicode": "U+201E",
+    "name": "DOUBLE LOW-9 QUOTATION MARK",
+    "frequency": 20,
+    "latin_code": "Ed"
+  },
+  {
+    "id": 134,
+    "char": "Å",
+    "unicode": "U+00C5",
+    "name": "LATIN CAPITAL LETTER A WITH RING ABOVE",
+    "frequency": 19,
+    "latin_code": "Ee"
+  },
+  {
+    "id": 135,
+    "char": "~",
+    "unicode": "U+007E",
+    "name": "TILDE",
+    "frequency": 18,
+    "latin_code": "Ef"
+  },
+  {
+    "id": 136,
+    "char": "ܝ",
+    "unicode": "U+071D",
+    "name": "SYRIAC LETTER YUDH",
+    "frequency": 18,
+    "latin_code": "Eg"
+  },
+  {
+    "id": 137,
+    "char": "ê",
+    "unicode": "U+00EA",
+    "name": "LATIN SMALL LETTER E WITH CIRCUMFLEX",
+    "frequency": 17,
+    "latin_code": "Eh"
+  },
+  {
+    "id": 138,
+    "char": "ô",
+    "unicode": "U+00F4",
+    "name": "LATIN SMALL LETTER O WITH CIRCUMFLEX",
+    "frequency": 17,
+    "latin_code": "Ei"
+  },
+  {
+    "id": 139,
+    "char": "á",
+    "unicode": "U+00E1",
+    "name": "LATIN SMALL LETTER A WITH ACUTE",
+    "frequency": 16,
+    "latin_code": "Ej"
+  },
+  {
+    "id": 140,
+    "char": "̈",
+    "unicode": "U+0308",
+    "name": "COMBINING DIAERESIS",
+    "frequency": 16,
+    "latin_code": "Ek"
+  },
+  {
+    "id": 141,
+    "char": "ܐ",
+    "unicode": "U+0710",
+    "name": "SYRIAC LETTER ALAPH",
+    "frequency": 16,
+    "latin_code": "El"
+  },
+  {
+    "id": 142,
+    "char": "ç",
+    "unicode": "U+00E7",
+    "name": "LATIN SMALL LETTER C WITH CEDILLA",
+    "frequency": 15,
+    "latin_code": "Em"
+  },
+  {
+    "id": 143,
+    "char": "ي",
+    "unicode": "U+064A",
+    "name": "ARABIC LETTER YEH",
+    "frequency": 15,
+    "latin_code": "En"
+  },
+  {
+    "id": 144,
+    "char": "★",
+    "unicode": "U+2605",
+    "name": "BLACK STAR",
+    "frequency": 14,
+    "latin_code": "Eo"
+  },
+  {
+    "id": 145,
+    "char": "♥",
+    "unicode": "U+2665",
+    "name": "BLACK HEART SUIT",
+    "frequency": 14,
+    "latin_code": "Ep"
+  },
+  {
+    "id": 146,
+    "char": "−",
+    "unicode": "U+2212",
+    "name": "MINUS SIGN",
+    "frequency": 14,
+    "latin_code": "Eq"
+  },
+  {
+    "id": 147,
+    "char": "í",
+    "unicode": "U+00ED",
+    "name": "LATIN SMALL LETTER I WITH ACUTE",
+    "frequency": 14,
+    "latin_code": "Er"
+  },
+  {
+    "id": 148,
+    "char": "´",
+    "unicode": "U+00B4",
+    "name": "ACUTE ACCENT",
+    "frequency": 14,
+    "latin_code": "Es"
+  },
+  {
+    "id": 149,
+    "char": "σ",
+    "unicode": "U+03C3",
+    "name": "GREEK SMALL LETTER SIGMA",
+    "frequency": 13,
+    "latin_code": "Et"
+  },
+  {
+    "id": 150,
+    "char": "\\",
+    "unicode": "U+005C",
+    "name": "REVERSE SOLIDUS",
+    "frequency": 13,
+    "latin_code": "Eu"
+  },
+  {
+    "id": 151,
+    "char": "ܕ",
+    "unicode": "U+0715",
+    "name": "SYRIAC LETTER DALATH",
+    "frequency": 12,
+    "latin_code": "Ev"
+  },
+  {
+    "id": 152,
+    "char": "و",
+    "unicode": "U+0648",
+    "name": "ARABIC LETTER WAW",
+    "frequency": 12,
+    "latin_code": "Ew"
+  },
+  {
+    "id": 153,
+    "char": "ل",
+    "unicode": "U+0644",
+    "name": "ARABIC LETTER LAM",
+    "frequency": 11,
+    "latin_code": "Ex"
+  },
+  {
+    "id": 154,
+    "char": "ó",
+    "unicode": "U+00F3",
+    "name": "LATIN SMALL LETTER O WITH ACUTE",
+    "frequency": 10,
+    "latin_code": "Ey"
+  },
+  {
+    "id": 155,
+    "char": "ܬ",
+    "unicode": "U+072C",
+    "name": "SYRIAC LETTER TAW",
+    "frequency": 10,
+    "latin_code": "Ez"
+  },
+  {
+    "id": 156,
+    "char": "«",
+    "unicode": "U+00AB",
+    "name": "LEFT-POINTING DOUBLE ANGLE QUOTATION MARK",
+    "frequency": 10,
+    "latin_code": "Fa"
+  },
+  {
+    "id": 157,
+    "char": "ا",
+    "unicode": "U+0627",
+    "name": "ARABIC LETTER ALEF",
+    "frequency": 10,
+    "latin_code": "Fb"
+  },
+  {
+    "id": 158,
+    "char": "λ",
+    "unicode": "U+03BB",
+    "name": "GREEK SMALL LETTER LAMDA",
+    "frequency": 9,
+    "latin_code": "Fc"
+  },
+  {
+    "id": 159,
+    "char": "£",
+    "unicode": "U+00A3",
+    "name": "POUND SIGN",
+    "frequency": 9,
+    "latin_code": "Fd"
+  },
+  {
+    "id": 160,
+    "char": "ā",
+    "unicode": "U+0101",
+    "name": "LATIN SMALL LETTER A WITH MACRON",
+    "frequency": 9,
+    "latin_code": "Fe"
+  },
+  {
+    "id": 161,
+    "char": "س",
+    "unicode": "U+0633",
+    "name": "ARABIC LETTER SEEN",
+    "frequency": 9,
+    "latin_code": "Ff"
+  },
+  {
+    "id": 162,
+    "char": "‑",
+    "unicode": "U+2011",
+    "name": "NON-BREAKING HYPHEN",
+    "frequency": 9,
+    "latin_code": "Fg"
+  },
+  {
+    "id": 163,
+    "char": "ø",
+    "unicode": "U+00F8",
+    "name": "LATIN SMALL LETTER O WITH STROKE",
+    "frequency": 8,
+    "latin_code": "Fh"
+  },
+  {
+    "id": 164,
+    "char": "ñ",
+    "unicode": "U+00F1",
+    "name": "LATIN SMALL LETTER N WITH TILDE",
+    "frequency": 8,
+    "latin_code": "Fi"
+  },
+  {
+    "id": 165,
+    "char": "′",
+    "unicode": "U+2032",
+    "name": "PRIME",
+    "frequency": 8,
+    "latin_code": "Fj"
+  },
+  {
+    "id": 166,
+    "char": "š",
+    "unicode": "U+0161",
+    "name": "LATIN SMALL LETTER S WITH CARON",
+    "frequency": 7,
+    "latin_code": "Fk"
+  },
+  {
+    "id": 167,
+    "char": "Ü",
+    "unicode": "U+00DC",
+    "name": "LATIN CAPITAL LETTER U WITH DIAERESIS",
+    "frequency": 6,
+    "latin_code": "Fl"
+  },
+  {
+    "id": 168,
+    "char": "ܩ",
+    "unicode": "U+0729",
+    "name": "SYRIAC LETTER QAPH",
+    "frequency": 6,
+    "latin_code": "Fm"
+  },
+  {
+    "id": 169,
+    "char": "ܘ",
+    "unicode": "U+0718",
+    "name": "SYRIAC LETTER WAW",
+    "frequency": 6,
+    "latin_code": "Fn"
+  },
+  {
+    "id": 170,
+    "char": "ܚ",
+    "unicode": "U+071A",
+    "name": "SYRIAC LETTER HETH",
+    "frequency": 6,
+    "latin_code": "Fo"
+  },
+  {
+    "id": 171,
+    "char": "ܪ",
+    "unicode": "U+072A",
+    "name": "SYRIAC LETTER RISH",
+    "frequency": 6,
+    "latin_code": "Fp"
+  },
+  {
+    "id": 172,
+    "char": "ĳ",
+    "unicode": "U+0133",
+    "name": "LATIN SMALL LIGATURE IJ",
+    "frequency": 6,
+    "latin_code": "Fq"
+  },
+  {
+    "id": 173,
+    "char": "ر",
+    "unicode": "U+0631",
+    "name": "ARABIC LETTER REH",
+    "frequency": 6,
+    "latin_code": "Fr"
+  },
+  {
+    "id": 174,
+    "char": "إ",
+    "unicode": "U+0625",
+    "name": "ARABIC LETTER ALEF WITH HAMZA BELOW",
+    "frequency": 6,
+    "latin_code": "Fs"
+  },
+  {
+    "id": 175,
+    "char": "​",
+    "unicode": "U+200B",
+    "name": "ZERO WIDTH SPACE",
+    "frequency": 5,
+    "latin_code": "Ft"
+  },
+  {
+    "id": 176,
+    "char": "م",
+    "unicode": "U+0645",
+    "name": "ARABIC LETTER MEEM",
+    "frequency": 5,
+    "latin_code": "Fu"
+  },
+  {
+    "id": 177,
+    "char": "ن",
+    "unicode": "U+0646",
+    "name": "ARABIC LETTER NOON",
+    "frequency": 5,
+    "latin_code": "Fv"
+  },
+  {
+    "id": 178,
+    "char": "ī",
+    "unicode": "U+012B",
+    "name": "LATIN SMALL LETTER I WITH MACRON",
+    "frequency": 5,
+    "latin_code": "Fw"
+  },
+  {
+    "id": 179,
+    "char": "ب",
+    "unicode": "U+0628",
+    "name": "ARABIC LETTER BEH",
+    "frequency": 5,
+    "latin_code": "Fx"
+  },
+  {
+    "id": 180,
+    "char": "æ",
+    "unicode": "U+00E6",
+    "name": "LATIN SMALL LETTER AE",
+    "frequency": 5,
+    "latin_code": "Fy"
+  },
+  {
+    "id": 181,
+    "char": "●",
+    "unicode": "U+25CF",
+    "name": "BLACK CIRCLE",
+    "frequency": 4,
+    "latin_code": "Fz"
+  },
+  {
+    "id": 182,
+    "char": "ú",
+    "unicode": "U+00FA",
+    "name": "LATIN SMALL LETTER U WITH ACUTE",
+    "frequency": 4,
+    "latin_code": "Ga"
+  },
+  {
+    "id": 183,
+    "char": "ܥ",
+    "unicode": "U+0725",
+    "name": "SYRIAC LETTER E",
+    "frequency": 4,
+    "latin_code": "Gb"
+  },
+  {
+    "id": 184,
+    "char": "ܫ",
+    "unicode": "U+072B",
+    "name": "SYRIAC LETTER SHIN",
+    "frequency": 4,
+    "latin_code": "Gc"
+  },
+  {
+    "id": 185,
+    "char": "ܠ",
+    "unicode": "U+0720",
+    "name": "SYRIAC LETTER LAMADH",
+    "frequency": 4,
+    "latin_code": "Gd"
+  },
+  {
+    "id": 186,
+    "char": "ܡ",
+    "unicode": "U+0721",
+    "name": "SYRIAC LETTER MIM",
+    "frequency": 4,
+    "latin_code": "Ge"
+  },
+  {
+    "id": 187,
+    "char": "ܢ",
+    "unicode": "U+0722",
+    "name": "SYRIAC LETTER NUN",
+    "frequency": 4,
+    "latin_code": "Gf"
+  },
+  {
+    "id": 188,
+    "char": "",
+    "unicode": "U+009A",
+    "name": "UNKNOWN",
+    "frequency": 4,
+    "latin_code": "Gg"
+  },
+  {
+    "id": 189,
+    "char": "",
+    "unicode": "U+0095",
+    "name": "UNKNOWN",
+    "frequency": 4,
+    "latin_code": "Gh"
+  },
+  {
+    "id": 190,
+    "char": "ح",
+    "unicode": "U+062D",
+    "name": "ARABIC LETTER HAH",
+    "frequency": 4,
+    "latin_code": "Gi"
+  },
+  {
+    "id": 191,
+    "char": "ع",
+    "unicode": "U+0639",
+    "name": "ARABIC LETTER AIN",
+    "frequency": 4,
+    "latin_code": "Gj"
+  },
+  {
+    "id": 192,
+    "char": "â",
+    "unicode": "U+00E2",
+    "name": "LATIN SMALL LETTER A WITH CIRCUMFLEX",
+    "frequency": 4,
+    "latin_code": "Gk"
+  },
+  {
+    "id": 193,
+    "char": "י",
+    "unicode": "U+05D9",
+    "name": "HEBREW LETTER YOD",
+    "frequency": 4,
+    "latin_code": "Gl"
+  },
+  {
+    "id": 194,
+    "char": "`",
+    "unicode": "U+0060",
+    "name": "GRAVE ACCENT",
+    "frequency": 4,
+    "latin_code": "Gm"
+  },
+  {
+    "id": 195,
+    "char": "́",
+    "unicode": "U+0301",
+    "name": "COMBINING ACUTE ACCENT",
+    "frequency": 4,
+    "latin_code": "Gn"
+  },
+  {
+    "id": 196,
+    "char": "",
+    "unicode": "U+0093",
+    "name": "UNKNOWN",
+    "frequency": 4,
+    "latin_code": "Go"
+  },
+  {
+    "id": 197,
+    "char": "ù",
+    "unicode": "U+00F9",
+    "name": "LATIN SMALL LETTER U WITH GRAVE",
+    "frequency": 3,
+    "latin_code": "Gp"
+  },
+  {
+    "id": 198,
+    "char": "",
+    "unicode": "U+0092",
+    "name": "UNKNOWN",
+    "frequency": 3,
+    "latin_code": "Gq"
+  },
+  {
+    "id": 199,
+    "char": "∫",
+    "unicode": "U+222B",
+    "name": "INTEGRAL",
+    "frequency": 3,
+    "latin_code": "Gr"
+  },
+  {
+    "id": 200,
+    "char": "د",
+    "unicode": "U+062F",
+    "name": "ARABIC LETTER DAL",
+    "frequency": 3,
+    "latin_code": "Gs"
+  }
+]

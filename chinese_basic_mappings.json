@@ -1,0 +1,1602 @@
+[
+  {
+    "id": 1,
+    "char": "学",
+    "unicode": "U+5B66",
+    "name": "CJK UNIFIED IDEOGRAPH-5B66",
+    "frequency": 31,
+    "latin_code": "B"
+  },
+  {
+    "id": 2,
+    "char": "经",
+    "unicode": "U+7ECF",
+    "name": "CJK UNIFIED IDEOGRAPH-7ECF",
+    "frequency": 29,
+    "latin_code": "C"
+  },
+  {
+    "id": 3,
+    "char": "济",
+    "unicode": "U+6D4E",
+    "name": "CJK UNIFIED IDEOGRAPH-6D4E",
+    "frequency": 29,
+    "latin_code": "D"
+  },
+  {
+    "id": 4,
+    "char": "的",
+    "unicode": "U+7684",
+    "name": "CJK UNIFIED IDEOGRAPH-7684",
+    "frequency": 22,
+    "latin_code": "E"
+  },
+  {
+    "id": 5,
+    "char": "、",
+    "unicode": "U+3001",
+    "name": "IDEOGRAPHIC COMMA",
+    "frequency": 21,
+    "latin_code": "F"
+  },
+  {
+    "id": 6,
+    "char": "，",
+    "unicode": "U+FF0C",
+    "name": "FULLWIDTH COMMA",
+    "frequency": 14,
+    "latin_code": "G"
+  },
+  {
+    "id": 7,
+    "char": "为",
+    "unicode": "U+4E3A",
+    "name": "CJK UNIFIED IDEOGRAPH-4E3A",
+    "frequency": 11,
+    "latin_code": "H"
+  },
+  {
+    "id": 8,
+    "char": "。",
+    "unicode": "U+3002",
+    "name": "IDEOGRAPHIC FULL STOP",
+    "frequency": 10,
+    "latin_code": "I"
+  },
+  {
+    "id": 9,
+    "char": "和",
+    "unicode": "U+548C",
+    "name": "CJK UNIFIED IDEOGRAPH-548C",
+    "frequency": 9,
+    "latin_code": "J"
+  },
+  {
+    "id": 10,
+    "char": "研",
+    "unicode": "U+7814",
+    "name": "CJK UNIFIED IDEOGRAPH-7814",
+    "frequency": 8,
+    "latin_code": "K"
+  },
+  {
+    "id": 11,
+    "char": "究",
+    "unicode": "U+7A76",
+    "name": "CJK UNIFIED IDEOGRAPH-7A76",
+    "frequency": 8,
+    "latin_code": "L"
+  },
+  {
+    "id": 12,
+    "char": "在",
+    "unicode": "U+5728",
+    "name": "CJK UNIFIED IDEOGRAPH-5728",
+    "frequency": 8,
+    "latin_code": "M"
+  },
+  {
+    "id": 13,
+    "char": "个",
+    "unicode": "U+4E2A",
+    "name": "CJK UNIFIED IDEOGRAPH-4E2A",
+    "frequency": 7,
+    "latin_code": "N"
+  },
+  {
+    "id": 14,
+    "char": "体",
+    "unicode": "U+4F53",
+    "name": "CJK UNIFIED IDEOGRAPH-4F53",
+    "frequency": 7,
+    "latin_code": "O"
+  },
+  {
+    "id": 15,
+    "char": "\n",
+    "unicode": "U+000A",
+    "name": "UNKNOWN",
+    "frequency": 6,
+    "latin_code": "P"
+  },
+  {
+    "id": 16,
+    "char": "一",
+    "unicode": "U+4E00",
+    "name": "CJK UNIFIED IDEOGRAPH-4E00",
+    "frequency": 6,
+    "latin_code": "Q"
+  },
+  {
+    "id": 17,
+    "char": "行",
+    "unicode": "U+884C",
+    "name": "CJK UNIFIED IDEOGRAPH-884C",
+    "frequency": 6,
+    "latin_code": "R"
+  },
+  {
+    "id": 18,
+    "char": "（",
+    "unicode": "U+FF08",
+    "name": "FULLWIDTH LEFT PARENTHESIS",
+    "frequency": 6,
+    "latin_code": "S"
+  },
+  {
+    "id": 19,
+    "char": "）",
+    "unicode": "U+FF09",
+    "name": "FULLWIDTH RIGHT PARENTHESIS",
+    "frequency": 6,
+    "latin_code": "T"
+  },
+  {
+    "id": 20,
+    "char": "其",
+    "unicode": "U+5176",
+    "name": "CJK UNIFIED IDEOGRAPH-5176",
+    "frequency": 6,
+    "latin_code": "U"
+  },
+  {
+    "id": 21,
+    "char": "政",
+    "unicode": "U+653F",
+    "name": "CJK UNIFIED IDEOGRAPH-653F",
+    "frequency": 6,
+    "latin_code": "V"
+  },
+  {
+    "id": 22,
+    "char": "等",
+    "unicode": "U+7B49",
+    "name": "CJK UNIFIED IDEOGRAPH-7B49",
+    "frequency": 6,
+    "latin_code": "W"
+  },
+  {
+    "id": 23,
+    "char": "是",
+    "unicode": "U+662F",
+    "name": "CJK UNIFIED IDEOGRAPH-662F",
+    "frequency": 5,
+    "latin_code": "X"
+  },
+  {
+    "id": 24,
+    "char": "分",
+    "unicode": "U+5206",
+    "name": "CJK UNIFIED IDEOGRAPH-5206",
+    "frequency": 5,
+    "latin_code": "Y"
+  },
+  {
+    "id": 25,
+    "char": "社",
+    "unicode": "U+793E",
+    "name": "CJK UNIFIED IDEOGRAPH-793E",
+    "frequency": 5,
+    "latin_code": "Z"
+  },
+  {
+    "id": 26,
+    "char": "会",
+    "unicode": "U+4F1A",
+    "name": "CJK UNIFIED IDEOGRAPH-4F1A",
+    "frequency": 5,
+    "latin_code": "Aa"
+  },
+  {
+    "id": 27,
+    "char": "领",
+    "unicode": "U+9886",
+    "name": "CJK UNIFIED IDEOGRAPH-9886",
+    "frequency": 5,
+    "latin_code": "Ab"
+  },
+  {
+    "id": 28,
+    "char": "域",
+    "unicode": "U+57DF",
+    "name": "CJK UNIFIED IDEOGRAPH-57DF",
+    "frequency": 5,
+    "latin_code": "Ac"
+  },
+  {
+    "id": 29,
+    "char": "包",
+    "unicode": "U+5305",
+    "name": "CJK UNIFIED IDEOGRAPH-5305",
+    "frequency": 5,
+    "latin_code": "Ad"
+  },
+  {
+    "id": 30,
+    "char": "括",
+    "unicode": "U+62EC",
+    "name": "CJK UNIFIED IDEOGRAPH-62EC",
+    "frequency": 5,
+    "latin_code": "Ae"
+  },
+  {
+    "id": 31,
+    "char": "「",
+    "unicode": "U+300C",
+    "name": "LEFT CORNER BRACKET",
+    "frequency": 5,
+    "latin_code": "Af"
+  },
+  {
+    "id": 32,
+    "char": "」",
+    "unicode": "U+300D",
+    "name": "RIGHT CORNER BRACKET",
+    "frequency": 5,
+    "latin_code": "Ag"
+  },
+  {
+    "id": 33,
+    "char": "-",
+    "unicode": "U+002D",
+    "name": "HYPHEN-MINUS",
+    "frequency": 5,
+    "latin_code": "Ah"
+  },
+  {
+    "id": 34,
+    "char": "义",
+    "unicode": "U+4E49",
+    "name": "CJK UNIFIED IDEOGRAPH-4E49",
+    "frequency": 5,
+    "latin_code": "Ai"
+  },
+  {
+    "id": 35,
+    "char": "对",
+    "unicode": "U+5BF9",
+    "name": "CJK UNIFIED IDEOGRAPH-5BF9",
+    "frequency": 4,
+    "latin_code": "Aj"
+  },
+  {
+    "id": 36,
+    "char": "以",
+    "unicode": "U+4EE5",
+    "name": "CJK UNIFIED IDEOGRAPH-4EE5",
+    "frequency": 4,
+    "latin_code": "Ak"
+  },
+  {
+    "id": 37,
+    "char": "及",
+    "unicode": "U+53CA",
+    "name": "CJK UNIFIED IDEOGRAPH-53CA",
+    "frequency": 4,
+    "latin_code": "Al"
+  },
+  {
+    "id": 38,
+    "char": "科",
+    "unicode": "U+79D1",
+    "name": "CJK UNIFIED IDEOGRAPH-79D1",
+    "frequency": 4,
+    "latin_code": "Am"
+  },
+  {
+    "id": 39,
+    "char": "他",
+    "unicode": "U+4ED6",
+    "name": "CJK UNIFIED IDEOGRAPH-4ED6",
+    "frequency": 4,
+    "latin_code": "An"
+  },
+  {
+    "id": 40,
+    "char": "家",
+    "unicode": "U+5BB6",
+    "name": "CJK UNIFIED IDEOGRAPH-5BB6",
+    "frequency": 4,
+    "latin_code": "Ao"
+  },
+  {
+    "id": 41,
+    "char": "与",
+    "unicode": "U+4E0E",
+    "name": "CJK UNIFIED IDEOGRAPH-4E0E",
+    "frequency": 4,
+    "latin_code": "Ap"
+  },
+  {
+    "id": 42,
+    "char": "了",
+    "unicode": "U+4E86",
+    "name": "CJK UNIFIED IDEOGRAPH-4E86",
+    "frequency": 4,
+    "latin_code": "Aq"
+  },
+  {
+    "id": 43,
+    "char": "理",
+    "unicode": "U+7406",
+    "name": "CJK UNIFIED IDEOGRAPH-7406",
+    "frequency": 4,
+    "latin_code": "Ar"
+  },
+  {
+    "id": 44,
+    "char": "主",
+    "unicode": "U+4E3B",
+    "name": "CJK UNIFIED IDEOGRAPH-4E3B",
+    "frequency": 4,
+    "latin_code": "As"
+  },
+  {
+    "id": 45,
+    "char": "1",
+    "unicode": "U+0031",
+    "name": "DIGIT ONE",
+    "frequency": 4,
+    "latin_code": "At"
+  },
+  {
+    "id": 46,
+    "char": "不",
+    "unicode": "U+4E0D",
+    "name": "CJK UNIFIED IDEOGRAPH-4E0D",
+    "frequency": 4,
+    "latin_code": "Au"
+  },
+  {
+    "id": 47,
+    "char": "有",
+    "unicode": "U+6709",
+    "name": "CJK UNIFIED IDEOGRAPH-6709",
+    "frequency": 4,
+    "latin_code": "Av"
+  },
+  {
+    "id": 48,
+    "char": "定",
+    "unicode": "U+5B9A",
+    "name": "CJK UNIFIED IDEOGRAPH-5B9A",
+    "frequency": 4,
+    "latin_code": "Aw"
+  },
+  {
+    "id": 49,
+    "char": "斯",
+    "unicode": "U+65AF",
+    "name": "CJK UNIFIED IDEOGRAPH-65AF",
+    "frequency": 4,
+    "latin_code": "Ax"
+  },
+  {
+    "id": 50,
+    "char": "产",
+    "unicode": "U+4EA7",
+    "name": "CJK UNIFIED IDEOGRAPH-4EA7",
+    "frequency": 3,
+    "latin_code": "Ay"
+  },
+  {
+    "id": 51,
+    "char": "方",
+    "unicode": "U+65B9",
+    "name": "CJK UNIFIED IDEOGRAPH-65B9",
+    "frequency": 3,
+    "latin_code": "Az"
+  },
+  {
+    "id": 52,
+    "char": "于",
+    "unicode": "U+4E8E",
+    "name": "CJK UNIFIED IDEOGRAPH-4E8E",
+    "frequency": 3,
+    "latin_code": "Ba"
+  },
+  {
+    "id": 53,
+    "char": "者",
+    "unicode": "U+8005",
+    "name": "CJK UNIFIED IDEOGRAPH-8005",
+    "frequency": 3,
+    "latin_code": "Bb"
+  },
+  {
+    "id": 54,
+    "char": "教",
+    "unicode": "U+6559",
+    "name": "CJK UNIFIED IDEOGRAPH-6559",
+    "frequency": 3,
+    "latin_code": "Bc"
+  },
+  {
+    "id": 55,
+    "char": "将",
+    "unicode": "U+5C06",
+    "name": "CJK UNIFIED IDEOGRAPH-5C06",
+    "frequency": 3,
+    "latin_code": "Bd"
+  },
+  {
+    "id": 56,
+    "char": "财",
+    "unicode": "U+8D22",
+    "name": "CJK UNIFIED IDEOGRAPH-8D22",
+    "frequency": 3,
+    "latin_code": "Be"
+  },
+  {
+    "id": 57,
+    "char": "性",
+    "unicode": "U+6027",
+    "name": "CJK UNIFIED IDEOGRAPH-6027",
+    "frequency": 3,
+    "latin_code": "Bf"
+  },
+  {
+    "id": 58,
+    "char": "同",
+    "unicode": "U+540C",
+    "name": "CJK UNIFIED IDEOGRAPH-540C",
+    "frequency": 3,
+    "latin_code": "Bg"
+  },
+  {
+    "id": 59,
+    "char": "法",
+    "unicode": "U+6CD5",
+    "name": "CJK UNIFIED IDEOGRAPH-6CD5",
+    "frequency": 3,
+    "latin_code": "Bh"
+  },
+  {
+    "id": 60,
+    "char": "说",
+    "unicode": "U+8BF4",
+    "name": "CJK UNIFIED IDEOGRAPH-8BF4",
+    "frequency": 3,
+    "latin_code": "Bi"
+  },
+  {
+    "id": 61,
+    "char": "·",
+    "unicode": "U+00B7",
+    "name": "MIDDLE DOT",
+    "frequency": 3,
+    "latin_code": "Bj"
+  },
+  {
+    "id": 62,
+    "char": "7",
+    "unicode": "U+0037",
+    "name": "DIGIT SEVEN",
+    "frequency": 3,
+    "latin_code": "Bk"
+  },
+  {
+    "id": 63,
+    "char": "年",
+    "unicode": "U+5E74",
+    "name": "CJK UNIFIED IDEOGRAPH-5E74",
+    "frequency": 3,
+    "latin_code": "Bl"
+  },
+  {
+    "id": 64,
+    "char": " ",
+    "unicode": "U+0020",
+    "name": "SPACE",
+    "frequency": 2,
+    "latin_code": "Bm"
+  },
+  {
+    "id": 65,
+    "char": "门",
+    "unicode": "U+95E8",
+    "name": "CJK UNIFIED IDEOGRAPH-95E8",
+    "frequency": 2,
+    "latin_code": "Bn"
+  },
+  {
+    "id": 66,
+    "char": "生",
+    "unicode": "U+751F",
+    "name": "CJK UNIFIED IDEOGRAPH-751F",
+    "frequency": 2,
+    "latin_code": "Bo"
+  },
+  {
+    "id": 67,
+    "char": "配",
+    "unicode": "U+914D",
+    "name": "CJK UNIFIED IDEOGRAPH-914D",
+    "frequency": 2,
+    "latin_code": "Bp"
+  },
+  {
+    "id": 68,
+    "char": "消",
+    "unicode": "U+6D88",
+    "name": "CJK UNIFIED IDEOGRAPH-6D88",
+    "frequency": 2,
+    "latin_code": "Bq"
+  },
+  {
+    "id": 69,
+    "char": "费",
+    "unicode": "U+8D39",
+    "name": "CJK UNIFIED IDEOGRAPH-8D39",
+    "frequency": 2,
+    "latin_code": "Br"
+  },
+  {
+    "id": 70,
+    "char": "中",
+    "unicode": "U+4E2D",
+    "name": "CJK UNIFIED IDEOGRAPH-4E2D",
+    "frequency": 2,
+    "latin_code": "Bs"
+  },
+  {
+    "id": 71,
+    "char": "词",
+    "unicode": "U+8BCD",
+    "name": "CJK UNIFIED IDEOGRAPH-8BCD",
+    "frequency": 2,
+    "latin_code": "Bt"
+  },
+  {
+    "id": 72,
+    "char": "之",
+    "unicode": "U+4E4B",
+    "name": "CJK UNIFIED IDEOGRAPH-4E4B",
+    "frequency": 2,
+    "latin_code": "Bu"
+  },
+  {
+    "id": 73,
+    "char": "互",
+    "unicode": "U+4E92",
+    "name": "CJK UNIFIED IDEOGRAPH-4E92",
+    "frequency": 2,
+    "latin_code": "Bv"
+  },
+  {
+    "id": 74,
+    "char": "动",
+    "unicode": "U+52A8",
+    "name": "CJK UNIFIED IDEOGRAPH-52A8",
+    "frequency": 2,
+    "latin_code": "Bw"
+  },
+  {
+    "id": 75,
+    "char": "现",
+    "unicode": "U+73B0",
+    "name": "CJK UNIFIED IDEOGRAPH-73B0",
+    "frequency": 2,
+    "latin_code": "Bx"
+  },
+  {
+    "id": 76,
+    "char": "代",
+    "unicode": "U+4EE3",
+    "name": "CJK UNIFIED IDEOGRAPH-4EE3",
+    "frequency": 2,
+    "latin_code": "By"
+  },
+  {
+    "id": 77,
+    "char": "通",
+    "unicode": "U+901A",
+    "name": "CJK UNIFIED IDEOGRAPH-901A",
+    "frequency": 2,
+    "latin_code": "Bz"
+  },
+  {
+    "id": 78,
+    "char": "这",
+    "unicode": "U+8FD9",
+    "name": "CJK UNIFIED IDEOGRAPH-8FD9",
+    "frequency": 2,
+    "latin_code": "Ca"
+  },
+  {
+    "id": 79,
+    "char": "观",
+    "unicode": "U+89C2",
+    "name": "CJK UNIFIED IDEOGRAPH-89C2",
+    "frequency": 2,
+    "latin_code": "Cb"
+  },
+  {
+    "id": 80,
+    "char": "里",
+    "unicode": "U+91CC",
+    "name": "CJK UNIFIED IDEOGRAPH-91CC",
+    "frequency": 2,
+    "latin_code": "Cc"
+  },
+  {
+    "id": 81,
+    "char": "如",
+    "unicode": "U+5982",
+    "name": "CJK UNIFIED IDEOGRAPH-5982",
+    "frequency": 2,
+    "latin_code": "Cd"
+  },
+  {
+    "id": 82,
+    "char": "公",
+    "unicode": "U+516C",
+    "name": "CJK UNIFIED IDEOGRAPH-516C",
+    "frequency": 2,
+    "latin_code": "Ce"
+  },
+  {
+    "id": 83,
+    "char": "或",
+    "unicode": "U+6216",
+    "name": "CJK UNIFIED IDEOGRAPH-6216",
+    "frequency": 2,
+    "latin_code": "Cf"
+  },
+  {
+    "id": 84,
+    "char": "而",
+    "unicode": "U+800C",
+    "name": "CJK UNIFIED IDEOGRAPH-800C",
+    "frequency": 2,
+    "latin_code": "Cg"
+  },
+  {
+    "id": 85,
+    "char": "则",
+    "unicode": "U+5219",
+    "name": "CJK UNIFIED IDEOGRAPH-5219",
+    "frequency": 2,
+    "latin_code": "Ch"
+  },
+  {
+    "id": 86,
+    "char": "析",
+    "unicode": "U+6790",
+    "name": "CJK UNIFIED IDEOGRAPH-6790",
+    "frequency": 2,
+    "latin_code": "Ci"
+  },
+  {
+    "id": 87,
+    "char": "业",
+    "unicode": "U+4E1A",
+    "name": "CJK UNIFIED IDEOGRAPH-4E1A",
+    "frequency": 2,
+    "latin_code": "Cj"
+  },
+  {
+    "id": 88,
+    "char": "货",
+    "unicode": "U+8D27",
+    "name": "CJK UNIFIED IDEOGRAPH-8D27",
+    "frequency": 2,
+    "latin_code": "Ck"
+  },
+  {
+    "id": 89,
+    "char": "策",
+    "unicode": "U+7B56",
+    "name": "CJK UNIFIED IDEOGRAPH-7B56",
+    "frequency": 2,
+    "latin_code": "Cl"
+  },
+  {
+    "id": 90,
+    "char": "实",
+    "unicode": "U+5B9E",
+    "name": "CJK UNIFIED IDEOGRAPH-5B9E",
+    "frequency": 2,
+    "latin_code": "Cm"
+  },
+  {
+    "id": 91,
+    "char": "什",
+    "unicode": "U+4EC0",
+    "name": "CJK UNIFIED IDEOGRAPH-4EC0",
+    "frequency": 2,
+    "latin_code": "Cn"
+  },
+  {
+    "id": 92,
+    "char": "么",
+    "unicode": "U+4E48",
+    "name": "CJK UNIFIED IDEOGRAPH-4E48",
+    "frequency": 2,
+    "latin_code": "Co"
+  },
+  {
+    "id": 93,
+    "char": "论",
+    "unicode": "U+8BBA",
+    "name": "CJK UNIFIED IDEOGRAPH-8BBA",
+    "frequency": 2,
+    "latin_code": "Cp"
+  },
+  {
+    "id": 94,
+    "char": "用",
+    "unicode": "U+7528",
+    "name": "CJK UNIFIED IDEOGRAPH-7528",
+    "frequency": 2,
+    "latin_code": "Cq"
+  },
+  {
+    "id": 95,
+    "char": "流",
+    "unicode": "U+6D41",
+    "name": "CJK UNIFIED IDEOGRAPH-6D41",
+    "frequency": 2,
+    "latin_code": "Cr"
+  },
+  {
+    "id": 96,
+    "char": "构",
+    "unicode": "U+6784",
+    "name": "CJK UNIFIED IDEOGRAPH-6784",
+    "frequency": 2,
+    "latin_code": "Cs"
+  },
+  {
+    "id": 97,
+    "char": "也",
+    "unicode": "U+4E5F",
+    "name": "CJK UNIFIED IDEOGRAPH-4E5F",
+    "frequency": 2,
+    "latin_code": "Ct"
+  },
+  {
+    "id": 98,
+    "char": "各",
+    "unicode": "U+5404",
+    "name": "CJK UNIFIED IDEOGRAPH-5404",
+    "frequency": 2,
+    "latin_code": "Cu"
+  },
+  {
+    "id": 99,
+    "char": "种",
+    "unicode": "U+79CD",
+    "name": "CJK UNIFIED IDEOGRAPH-79CD",
+    "frequency": 2,
+    "latin_code": "Cv"
+  },
+  {
+    "id": 100,
+    "char": "治",
+    "unicode": "U+6CBB",
+    "name": "CJK UNIFIED IDEOGRAPH-6CBB",
+    "frequency": 2,
+    "latin_code": "Cw"
+  },
+  {
+    "id": 101,
+    "char": "面",
+    "unicode": "U+9762",
+    "name": "CJK UNIFIED IDEOGRAPH-9762",
+    "frequency": 2,
+    "latin_code": "Cx"
+  },
+  {
+    "id": 102,
+    "char": "讽",
+    "unicode": "U+8BBD",
+    "name": "CJK UNIFIED IDEOGRAPH-8BBD",
+    "frequency": 2,
+    "latin_code": "Cy"
+  },
+  {
+    "id": 103,
+    "char": "刺",
+    "unicode": "U+523A",
+    "name": "CJK UNIFIED IDEOGRAPH-523A",
+    "frequency": 2,
+    "latin_code": "Cz"
+  },
+  {
+    "id": 104,
+    "char": "称",
+    "unicode": "U+79F0",
+    "name": "CJK UNIFIED IDEOGRAPH-79F0",
+    "frequency": 2,
+    "latin_code": "Da"
+  },
+  {
+    "id": 105,
+    "char": "国",
+    "unicode": "U+56FD",
+    "name": "CJK UNIFIED IDEOGRAPH-56FD",
+    "frequency": 2,
+    "latin_code": "Db"
+  },
+  {
+    "id": 106,
+    "char": "因",
+    "unicode": "U+56E0",
+    "name": "CJK UNIFIED IDEOGRAPH-56E0",
+    "frequency": 2,
+    "latin_code": "Dc"
+  },
+  {
+    "id": 107,
+    "char": "富",
+    "unicode": "U+5BCC",
+    "name": "CJK UNIFIED IDEOGRAPH-5BCC",
+    "frequency": 2,
+    "latin_code": "Dd"
+  },
+  {
+    "id": 108,
+    "char": "8",
+    "unicode": "U+0038",
+    "name": "DIGIT EIGHT",
+    "frequency": 2,
+    "latin_code": "De"
+  },
+  {
+    "id": 109,
+    "char": "出",
+    "unicode": "U+51FA",
+    "name": "CJK UNIFIED IDEOGRAPH-51FA",
+    "frequency": 2,
+    "latin_code": "Df"
+  },
+  {
+    "id": 110,
+    "char": "马",
+    "unicode": "U+9A6C",
+    "name": "CJK UNIFIED IDEOGRAPH-9A6C",
+    "frequency": 2,
+    "latin_code": "Dg"
+  },
+  {
+    "id": 111,
+    "char": "尔",
+    "unicode": "U+5C14",
+    "name": "CJK UNIFIED IDEOGRAPH-5C14",
+    "frequency": 2,
+    "latin_code": "Dh"
+  },
+  {
+    "id": 112,
+    "char": "i",
+    "unicode": "U+0069",
+    "name": "LATIN SMALL LETTER I",
+    "frequency": 2,
+    "latin_code": "Di"
+  },
+  {
+    "id": 113,
+    "char": "s",
+    "unicode": "U+0073",
+    "name": "LATIN SMALL LETTER S",
+    "frequency": 2,
+    "latin_code": "Dj"
+  },
+  {
+    "id": 114,
+    "char": "c",
+    "unicode": "U+0063",
+    "name": "LATIN SMALL LETTER C",
+    "frequency": 2,
+    "latin_code": "Dk"
+  },
+  {
+    "id": 115,
+    "char": "e",
+    "unicode": "U+0065",
+    "name": "LATIN SMALL LETTER E",
+    "frequency": 2,
+    "latin_code": "Dl"
+  },
+  {
+    "id": 116,
+    "char": "品",
+    "unicode": "U+54C1",
+    "name": "CJK UNIFIED IDEOGRAPH-54C1",
+    "frequency": 1,
+    "latin_code": "Dm"
+  },
+  {
+    "id": 117,
+    "char": "服",
+    "unicode": "U+670D",
+    "name": "CJK UNIFIED IDEOGRAPH-670D",
+    "frequency": 1,
+    "latin_code": "Dn"
+  },
+  {
+    "id": 118,
+    "char": "务",
+    "unicode": "U+52A1",
+    "name": "CJK UNIFIED IDEOGRAPH-52A1",
+    "frequency": 1,
+    "latin_code": "Do"
+  },
+  {
+    "id": 119,
+    "char": "进",
+    "unicode": "U+8FDB",
+    "name": "CJK UNIFIED IDEOGRAPH-8FDB",
+    "frequency": 1,
+    "latin_code": "Dp"
+  },
+  {
+    "id": 120,
+    "char": "西",
+    "unicode": "U+897F",
+    "name": "CJK UNIFIED IDEOGRAPH-897F",
+    "frequency": 1,
+    "latin_code": "Dq"
+  },
+  {
+    "id": 121,
+    "char": "语",
+    "unicode": "U+8BED",
+    "name": "CJK UNIFIED IDEOGRAPH-8BED",
+    "frequency": 1,
+    "latin_code": "Dr"
+  },
+  {
+    "id": 122,
+    "char": "言",
+    "unicode": "U+8A00",
+    "name": "CJK UNIFIED IDEOGRAPH-8A00",
+    "frequency": 1,
+    "latin_code": "Ds"
+  },
+  {
+    "id": 123,
+    "char": "“",
+    "unicode": "U+201C",
+    "name": "LEFT DOUBLE QUOTATION MARK",
+    "frequency": 1,
+    "latin_code": "Dt"
+  },
+  {
+    "id": 124,
+    "char": "”",
+    "unicode": "U+201D",
+    "name": "RIGHT DOUBLE QUOTATION MARK",
+    "frequency": 1,
+    "latin_code": "Du"
+  },
+  {
+    "id": 125,
+    "char": "源",
+    "unicode": "U+6E90",
+    "name": "CJK UNIFIED IDEOGRAPH-6E90",
+    "frequency": 1,
+    "latin_code": "Dv"
+  },
+  {
+    "id": 126,
+    "char": "古",
+    "unicode": "U+53E4",
+    "name": "CJK UNIFIED IDEOGRAPH-53E4",
+    "frequency": 1,
+    "latin_code": "Dw"
+  },
+  {
+    "id": 127,
+    "char": "希",
+    "unicode": "U+5E0C",
+    "name": "CJK UNIFIED IDEOGRAPH-5E0C",
+    "frequency": 1,
+    "latin_code": "Dx"
+  },
+  {
+    "id": 128,
+    "char": "腊",
+    "unicode": "U+814A",
+    "name": "CJK UNIFIED IDEOGRAPH-814A",
+    "frequency": 1,
+    "latin_code": "Dy"
+  },
+  {
+    "id": 129,
+    "char": "注",
+    "unicode": "U+6CE8",
+    "name": "CJK UNIFIED IDEOGRAPH-6CE8",
+    "frequency": 1,
+    "latin_code": "Dz"
+  },
+  {
+    "id": 130,
+    "char": "重",
+    "unicode": "U+91CD",
+    "name": "CJK UNIFIED IDEOGRAPH-91CD",
+    "frequency": 1,
+    "latin_code": "Ea"
+  },
+  {
+    "id": 131,
+    "char": "系",
+    "unicode": "U+7CFB",
+    "name": "CJK UNIFIED IDEOGRAPH-7CFB",
+    "frequency": 1,
+    "latin_code": "Eb"
+  },
+  {
+    "id": 132,
+    "char": "下",
+    "unicode": "U+4E0B",
+    "name": "CJK UNIFIED IDEOGRAPH-4E0B",
+    "frequency": 1,
+    "latin_code": "Ec"
+  },
+  {
+    "id": 133,
+    "char": "们",
+    "unicode": "U+4EEC",
+    "name": "CJK UNIFIED IDEOGRAPH-4EEC",
+    "frequency": 1,
+    "latin_code": "Ed"
+  },
+  {
+    "id": 134,
+    "char": "彼",
+    "unicode": "U+5F7C",
+    "name": "CJK UNIFIED IDEOGRAPH-5F7C",
+    "frequency": 1,
+    "latin_code": "Ee"
+  },
+  {
+    "id": 135,
+    "char": "此",
+    "unicode": "U+6B64",
+    "name": "CJK UNIFIED IDEOGRAPH-6B64",
+    "frequency": 1,
+    "latin_code": "Ef"
+  },
+  {
+    "id": 136,
+    "char": "间",
+    "unicode": "U+95F4",
+    "name": "CJK UNIFIED IDEOGRAPH-95F4",
+    "frequency": 1,
+    "latin_code": "Eg"
+  },
+  {
+    "id": 137,
+    "char": "材",
+    "unicode": "U+6750",
+    "name": "CJK UNIFIED IDEOGRAPH-6750",
+    "frequency": 1,
+    "latin_code": "Eh"
+  },
+  {
+    "id": 138,
+    "char": "常",
+    "unicode": "U+5E38",
+    "name": "CJK UNIFIED IDEOGRAPH-5E38",
+    "frequency": 1,
+    "latin_code": "Ei"
+  },
+  {
+    "id": 139,
+    "char": "总",
+    "unicode": "U+603B",
+    "name": "CJK UNIFIED IDEOGRAPH-603B",
+    "frequency": 1,
+    "latin_code": "Ej"
+  },
+  {
+    "id": 140,
+    "char": "微",
+    "unicode": "U+5FAE",
+    "name": "CJK UNIFIED IDEOGRAPH-5FAE",
+    "frequency": 1,
+    "latin_code": "Ek"
+  },
+  {
+    "id": 141,
+    "char": "检",
+    "unicode": "U+68C0",
+    "name": "CJK UNIFIED IDEOGRAPH-68C0",
+    "frequency": 1,
+    "latin_code": "El"
+  },
+  {
+    "id": 142,
+    "char": "视",
+    "unicode": "U+89C6",
+    "name": "CJK UNIFIED IDEOGRAPH-89C6",
+    "frequency": 1,
+    "latin_code": "Em"
+  },
+  {
+    "id": 143,
+    "char": "基",
+    "unicode": "U+57FA",
+    "name": "CJK UNIFIED IDEOGRAPH-57FA",
+    "frequency": 1,
+    "latin_code": "En"
+  },
+  {
+    "id": 144,
+    "char": "本",
+    "unicode": "U+672C",
+    "name": "CJK UNIFIED IDEOGRAPH-672C",
+    "frequency": 1,
+    "latin_code": "Eo"
+  },
+  {
+    "id": 145,
+    "char": "层",
+    "unicode": "U+5C42",
+    "name": "CJK UNIFIED IDEOGRAPH-5C42",
+    "frequency": 1,
+    "latin_code": "Ep"
+  },
+  {
+    "id": 146,
+    "char": "次",
+    "unicode": "U+6B21",
+    "name": "CJK UNIFIED IDEOGRAPH-6B21",
+    "frequency": 1,
+    "latin_code": "Eq"
+  },
+  {
+    "id": 147,
+    "char": "例",
+    "unicode": "U+4F8B",
+    "name": "CJK UNIFIED IDEOGRAPH-4F8B",
+    "frequency": 1,
+    "latin_code": "Er"
+  },
+  {
+    "id": 148,
+    "char": "人",
+    "unicode": "U+4EBA",
+    "name": "CJK UNIFIED IDEOGRAPH-4EBA",
+    "frequency": 1,
+    "latin_code": "Es"
+  },
+  {
+    "id": 149,
+    "char": "司",
+    "unicode": "U+53F8",
+    "name": "CJK UNIFIED IDEOGRAPH-53F8",
+    "frequency": 1,
+    "latin_code": "Et"
+  },
+  {
+    "id": 150,
+    "char": "买",
+    "unicode": "U+4E70",
+    "name": "CJK UNIFIED IDEOGRAPH-4E70",
+    "frequency": 1,
+    "latin_code": "Eu"
+  },
+  {
+    "id": 151,
+    "char": "卖",
+    "unicode": "U+5356",
+    "name": "CJK UNIFIED IDEOGRAPH-5356",
+    "frequency": 1,
+    "latin_code": "Ev"
+  },
+  {
+    "id": 152,
+    "char": "市",
+    "unicode": "U+5E02",
+    "name": "CJK UNIFIED IDEOGRAPH-5E02",
+    "frequency": 1,
+    "latin_code": "Ew"
+  },
+  {
+    "id": 153,
+    "char": "场",
+    "unicode": "U+573A",
+    "name": "CJK UNIFIED IDEOGRAPH-573A",
+    "frequency": 1,
+    "latin_code": "Ex"
+  },
+  {
+    "id": 154,
+    "char": "宏",
+    "unicode": "U+5B8F",
+    "name": "CJK UNIFIED IDEOGRAPH-5B8F",
+    "frequency": 1,
+    "latin_code": "Ey"
+  },
+  {
+    "id": 155,
+    "char": "整",
+    "unicode": "U+6574",
+    "name": "CJK UNIFIED IDEOGRAPH-6574",
+    "frequency": 1,
+    "latin_code": "Ez"
+  },
+  {
+    "id": 156,
+    "char": "议",
+    "unicode": "U+8BAE",
+    "name": "CJK UNIFIED IDEOGRAPH-8BAE",
+    "frequency": 1,
+    "latin_code": "Fa"
+  },
+  {
+    "id": 157,
+    "char": "题",
+    "unicode": "U+9898",
+    "name": "CJK UNIFIED IDEOGRAPH-9898",
+    "frequency": 1,
+    "latin_code": "Fb"
+  },
+  {
+    "id": 158,
+    "char": "失",
+    "unicode": "U+5931",
+    "name": "CJK UNIFIED IDEOGRAPH-5931",
+    "frequency": 1,
+    "latin_code": "Fc"
+  },
+  {
+    "id": 159,
+    "char": "膨",
+    "unicode": "U+81A8",
+    "name": "CJK UNIFIED IDEOGRAPH-81A8",
+    "frequency": 1,
+    "latin_code": "Fd"
+  },
+  {
+    "id": 160,
+    "char": "胀",
+    "unicode": "U+80C0",
+    "name": "CJK UNIFIED IDEOGRAPH-80C0",
+    "frequency": 1,
+    "latin_code": "Fe"
+  },
+  {
+    "id": 161,
+    "char": "成",
+    "unicode": "U+6210",
+    "name": "CJK UNIFIED IDEOGRAPH-6210",
+    "frequency": 1,
+    "latin_code": "Ff"
+  },
+  {
+    "id": 162,
+    "char": "长",
+    "unicode": "U+957F",
+    "name": "CJK UNIFIED IDEOGRAPH-957F",
+    "frequency": 1,
+    "latin_code": "Fg"
+  },
+  {
+    "id": 163,
+    "char": "币",
+    "unicode": "U+5E01",
+    "name": "CJK UNIFIED IDEOGRAPH-5E01",
+    "frequency": 1,
+    "latin_code": "Fh"
+  },
+  {
+    "id": 164,
+    "char": "照",
+    "unicode": "U+7167",
+    "name": "CJK UNIFIED IDEOGRAPH-7167",
+    "frequency": 1,
+    "latin_code": "Fi"
+  },
+  {
+    "id": 165,
+    "char": "还",
+    "unicode": "U+8FD8",
+    "name": "CJK UNIFIED IDEOGRAPH-8FD8",
+    "frequency": 1,
+    "latin_code": "Fj"
+  },
+  {
+    "id": 166,
+    "char": "证",
+    "unicode": "U+8BC1",
+    "name": "CJK UNIFIED IDEOGRAPH-8BC1",
+    "frequency": 1,
+    "latin_code": "Fk"
+  },
+  {
+    "id": 167,
+    "char": "规",
+    "unicode": "U+89C4",
+    "name": "CJK UNIFIED IDEOGRAPH-89C4",
+    "frequency": 1,
+    "latin_code": "Fl"
+  },
+  {
+    "id": 168,
+    "char": "范",
+    "unicode": "U+8303",
+    "name": "CJK UNIFIED IDEOGRAPH-8303",
+    "frequency": 1,
+    "latin_code": "Fm"
+  },
+  {
+    "id": 169,
+    "char": "应",
+    "unicode": "U+5E94",
+    "name": "CJK UNIFIED IDEOGRAPH-5E94",
+    "frequency": 1,
+    "latin_code": "Fn"
+  },
+  {
+    "id": 170,
+    "char": "该",
+    "unicode": "U+8BE5",
+    "name": "CJK UNIFIED IDEOGRAPH-8BE5",
+    "frequency": 1,
+    "latin_code": "Fo"
+  },
+  {
+    "id": 171,
+    "char": "选",
+    "unicode": "U+9009",
+    "name": "CJK UNIFIED IDEOGRAPH-9009",
+    "frequency": 1,
+    "latin_code": "Fp"
+  },
+  {
+    "id": 172,
+    "char": "择",
+    "unicode": "U+62E9",
+    "name": "CJK UNIFIED IDEOGRAPH-62E9",
+    "frequency": 1,
+    "latin_code": "Fq"
+  },
+  {
+    "id": 173,
+    "char": "均",
+    "unicode": "U+5747",
+    "name": "CJK UNIFIED IDEOGRAPH-5747",
+    "frequency": 1,
+    "latin_code": "Fr"
+  },
+  {
+    "id": 174,
+    "char": "衡",
+    "unicode": "U+8861",
+    "name": "CJK UNIFIED IDEOGRAPH-8861",
+    "frequency": 1,
+    "latin_code": "Fs"
+  },
+  {
+    "id": 175,
+    "char": "非",
+    "unicode": "U+975E",
+    "name": "CJK UNIFIED IDEOGRAPH-975E",
+    "frequency": 1,
+    "latin_code": "Ft"
+  },
+  {
+    "id": 176,
+    "char": "制",
+    "unicode": "U+5236",
+    "name": "CJK UNIFIED IDEOGRAPH-5236",
+    "frequency": 1,
+    "latin_code": "Fu"
+  },
+  {
+    "id": 177,
+    "char": "历",
+    "unicode": "U+5386",
+    "name": "CJK UNIFIED IDEOGRAPH-5386",
+    "frequency": 1,
+    "latin_code": "Fv"
+  },
+  {
+    "id": 178,
+    "char": "史",
+    "unicode": "U+53F2",
+    "name": "CJK UNIFIED IDEOGRAPH-53F2",
+    "frequency": 1,
+    "latin_code": "Fw"
+  },
+  {
+    "id": 179,
+    "char": "结",
+    "unicode": "U+7ED3",
+    "name": "CJK UNIFIED IDEOGRAPH-7ED3",
+    "frequency": 1,
+    "latin_code": "Fx"
+  },
+  {
+    "id": 180,
+    "char": "被",
+    "unicode": "U+88AB",
+    "name": "CJK UNIFIED IDEOGRAPH-88AB",
+    "frequency": 1,
+    "latin_code": "Fy"
+  },
+  {
+    "id": 181,
+    "char": "上",
+    "unicode": "U+4E0A",
+    "name": "CJK UNIFIED IDEOGRAPH-4E0A",
+    "frequency": 1,
+    "latin_code": "Fz"
+  },
+  {
+    "id": 182,
+    "char": "要",
+    "unicode": "U+8981",
+    "name": "CJK UNIFIED IDEOGRAPH-8981",
+    "frequency": 1,
+    "latin_code": "Ga"
+  },
+  {
+    "id": 183,
+    "char": "商",
+    "unicode": "U+5546",
+    "name": "CJK UNIFIED IDEOGRAPH-5546",
+    "frequency": 1,
+    "latin_code": "Gb"
+  },
+  {
+    "id": 184,
+    "char": "金",
+    "unicode": "U+91D1",
+    "name": "CJK UNIFIED IDEOGRAPH-91D1",
+    "frequency": 1,
+    "latin_code": "Gc"
+  },
+  {
+    "id": 185,
+    "char": "融",
+    "unicode": "U+878D",
+    "name": "CJK UNIFIED IDEOGRAPH-878D",
+    "frequency": 1,
+    "latin_code": "Gd"
+  },
+  {
+    "id": 186,
+    "char": "府",
+    "unicode": "U+5E9C",
+    "name": "CJK UNIFIED IDEOGRAPH-5E9C",
+    "frequency": 1,
+    "latin_code": "Ge"
+  },
+  {
+    "id": 187,
+    "char": "但",
+    "unicode": "U+4F46",
+    "name": "CJK UNIFIED IDEOGRAPH-4F46",
+    "frequency": 1,
+    "latin_code": "Gf"
+  },
+  {
+    "id": 188,
+    "char": "时",
+    "unicode": "U+65F6",
+    "name": "CJK UNIFIED IDEOGRAPH-65F6",
+    "frequency": 1,
+    "latin_code": "Gg"
+  },
+  {
+    "id": 189,
+    "char": "健",
+    "unicode": "U+5065",
+    "name": "CJK UNIFIED IDEOGRAPH-5065",
+    "frequency": 1,
+    "latin_code": "Gh"
+  },
+  {
+    "id": 190,
+    "char": "康",
+    "unicode": "U+5EB7",
+    "name": "CJK UNIFIED IDEOGRAPH-5EB7",
+    "frequency": 1,
+    "latin_code": "Gi"
+  },
+  {
+    "id": 191,
+    "char": "犯",
+    "unicode": "U+72AF",
+    "name": "CJK UNIFIED IDEOGRAPH-72AF",
+    "frequency": 1,
+    "latin_code": "Gj"
+  },
+  {
+    "id": 192,
+    "char": "罪",
+    "unicode": "U+7F6A",
+    "name": "CJK UNIFIED IDEOGRAPH-7F6A",
+    "frequency": 1,
+    "latin_code": "Gk"
+  },
+  {
+    "id": 193,
+    "char": "育",
+    "unicode": "U+80B2",
+    "name": "CJK UNIFIED IDEOGRAPH-80B2",
+    "frequency": 1,
+    "latin_code": "Gl"
+  },
+  {
+    "id": 194,
+    "char": "律",
+    "unicode": "U+5F8B",
+    "name": "CJK UNIFIED IDEOGRAPH-5F8B",
+    "frequency": 1,
+    "latin_code": "Gm"
+  },
+  {
+    "id": 195,
+    "char": "架",
+    "unicode": "U+67B6",
+    "name": "CJK UNIFIED IDEOGRAPH-67B6",
+    "frequency": 1,
+    "latin_code": "Gn"
+  },
+  {
+    "id": 196,
+    "char": "宗",
+    "unicode": "U+5B97",
+    "name": "CJK UNIFIED IDEOGRAPH-5B97",
+    "frequency": 1,
+    "latin_code": "Go"
+  },
+  {
+    "id": 197,
+    "char": "战",
+    "unicode": "U+6218",
+    "name": "CJK UNIFIED IDEOGRAPH-6218",
+    "frequency": 1,
+    "latin_code": "Gp"
+  },
+  {
+    "id": 198,
+    "char": "争",
+    "unicode": "U+4E89",
+    "name": "CJK UNIFIED IDEOGRAPH-4E89",
+    "frequency": 1,
+    "latin_code": "Gq"
+  },
+  {
+    "id": 199,
+    "char": "到",
+    "unicode": "U+5230",
+    "name": "CJK UNIFIED IDEOGRAPH-5230",
+    "frequency": 1,
+    "latin_code": "Gr"
+  },
+  {
+    "id": 200,
+    "char": "2",
+    "unicode": "U+0032",
+    "name": "DIGIT TWO",
+    "frequency": 1,
+    "latin_code": "Gs"
+  }
+]
